@@ -75,7 +75,7 @@ WantedBy=multi-user.target
 ### Create Service
 
 1. On your personal computer, go to <https://connect.raspberrypi.com/>.
-    * You should see you device listed.
+    * You should see your device listed.
 2. Select `Connect via` ➡️ `Remote shell`
     * The remote shell should connect successfully.
     * The commands below should all be run in the remote shell.
